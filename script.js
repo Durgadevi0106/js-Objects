@@ -64,7 +64,7 @@ console.log('-------------------------------------------------------------------
 // task-5
 
 var student={
-    name:"Vanitha",
+    name:"mavika",
     age:21,
     Grade:80,
     school:"Ravindra Bharathi school"
